@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/cic-poc/forPoC/raw/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/cic-poc/forPoC/main/test.yaml",
     "urls": [
         {
-            "url": "https://github.com/cic-poc/forPoC/raw/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/cic-poc/forPoC/main/test.yaml",
             "name": "XSS payload"
         }
     ]
